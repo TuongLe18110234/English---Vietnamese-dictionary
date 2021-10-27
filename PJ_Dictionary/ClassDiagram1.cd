@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PJ_Dictionary.Node">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAACAAAAAAABAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>cayNhiPhan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PJ_Dictionary.TREE">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAAAAAAAAAAAAgAAAAAAAgAAAAAAABAAAgAAA=</HashCode>
+      <FileName>cayNhiPhan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PJ_Dictionary.Form1">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>nBAAAgABICAAEAAAygKQAAACoMEKAgQAwAQAAAAQACA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PJ_Dictionary.Form2">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAACJAAAQAAACAAAgCIIAAAIACAAAAACAkEAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PJ_Dictionary.Form3">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAACIAAAQAAACAAggCAIAAAAACAABBAAAgEAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PJ_Dictionary.aboutWord">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAABAAAAAAAAQAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>cayNhiPhan.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
